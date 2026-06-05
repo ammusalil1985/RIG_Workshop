@@ -4,7 +4,7 @@
 
 My name is Ammu Bharathan K.
 
-I am a Mechanical Engineering student at Government Engineering College Palakkad.
+I am a robotics mtech student at Government Engineering College Palakkad.
 
 
 
